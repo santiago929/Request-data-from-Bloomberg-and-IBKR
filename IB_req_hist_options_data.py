@@ -8,7 +8,6 @@ Created on Sat Feb 10 15:16:48 2024
 from ibapi.client import EClient
 from ibapi.wrapper import EWrapper
 from ibapi.contract import Contract
-from threading import Thread, Event
 
 import pandas as pd
 import threading
